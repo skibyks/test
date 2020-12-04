@@ -1,0 +1,11 @@
+@media all and (max-width: 500px) {
+  div:first-child,
+  div:last-child,
+  input,
+  p {
+    transform: translate(0px, 0px) skew(0deg, 0deg);
+  }
+  p {
+    height: 38px;
+  }
+}

@@ -20,4 +20,4 @@ g.addEventListener('click',function(event){
      alert('запрос отправлен')
   }
 })
-//  
+  
